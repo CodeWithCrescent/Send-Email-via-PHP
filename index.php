@@ -44,7 +44,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 
-<!-- Nichek +255 676827992 kama hujaelewa popote -->
+<!-- Nichek +255 676 827 992 kama hujaelewa popote -->
 
 <!DOCTYPE html>
 <html>
@@ -127,7 +127,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <input type="text" id="subject" name="subject" placeholder="Your email subject" required>
 
                 <label for="message">Message<span class="required">*</span></label>
-                <textarea id="message" name="message" placeholder="Write something.." rows="5" required></textarea>
+                <textarea id="message" name="message" placeholder="Write message.." rows="5" required></textarea>
 
                 <input type="submit" value="Submit">
             </form>
