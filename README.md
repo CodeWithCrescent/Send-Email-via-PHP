@@ -6,4 +6,4 @@
     <li>Extract the 'Send-Email-via-PHP' folder to htdocs(for XAMPP user) or www directory(for WAMP users)</li>
     <li>Then</li>
   </ul>
-</h6>
+</h6> 
