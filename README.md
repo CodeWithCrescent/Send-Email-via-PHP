@@ -4,6 +4,6 @@
   <em>Steps to use: </em>
   <ul>
     <li>Extract the 'Send-Email-via-PHP' folder to htdocs(for XAMPP user) or www directory(for WAMP users)</li>
-    <li>Then</li>
+    <li>Then, Run the <em>index.php</em> and fill as required</li>
   </ul>
 </h6> 
